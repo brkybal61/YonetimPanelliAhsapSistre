@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="01973376-260d-412b-91ea-00e3cf4c1588" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nedmin/production/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/nedmin/production/login.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1jBUtG50RDuhkDyiAo7l9QkVfaR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../../wamp64/www/ogluş" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ahsap\nedmin\production" />
+      <recent name="C:\wamp64\www\ahsap" />
+      <recent name="C:\wamp64\www\ahsap-yedek" />
+      <recent name="C:\wamp64\www\ahsap\nedmin\netting" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\ahsap\nedmin\production" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="01973376-260d-412b-91ea-00e3cf4c1588" name="Default Changelist" comment="" />
+      <created>1603277190698</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603277190698</updated>
+      <workItem from="1603277191834" duration="14693000" />
+      <workItem from="1603361937555" duration="1334000" />
+      <workItem from="1603363857436" duration="13066000" />
+      <workItem from="1603454315884" duration="7962000" />
+      <workItem from="1603477479141" duration="1259000" />
+      <workItem from="1603535549136" duration="7261000" />
+      <workItem from="1603620254190" duration="3209000" />
+      <workItem from="1603705928091" duration="3379000" />
+      <workItem from="1603905453461" duration="21000" />
+      <workItem from="1603967030254" duration="10481000" />
+      <workItem from="1604068450849" duration="3547000" />
+      <workItem from="1604148280986" duration="202000" />
+      <workItem from="1604235851619" duration="7735000" />
+      <workItem from="1604246658651" duration="16000" />
+      <workItem from="1607865599439" duration="1560000" />
+      <workItem from="1614171500127" duration="1033000" />
+      <workItem from="1614190011360" duration="41000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
